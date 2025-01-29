@@ -38,4 +38,4 @@ Check if there's an existing SSH Key active in GitHub account. If there's none, 
 ## Reference
 
 - [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-- [https://docs.github.com/en/authentication](Github Authentication)
+- [Github Authentication][https://docs.github.com/en/authentication]
